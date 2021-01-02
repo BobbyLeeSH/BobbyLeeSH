@@ -2,6 +2,8 @@
 
 <p align='center'>
   I am Year 3 student studying Computer Science at <b>University of Hong Kong</b>
+  <br/>
+  <b>Incoming Technology Summer Analyst at Credit Suisse</b>
 </p>
 
 
