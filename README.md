@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Sang-hyeon Lee </h1>
+<h1 align='center'> Hi there 👋, I'm Sang-Hyeon Lee </h1>
 
 <p align='center'>
   I am Year 3 student studying Computer Science at <b>University of Hong Kong</b>
