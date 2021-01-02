@@ -16,7 +16,7 @@
 <hr>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center"> Techs that I've experienced with in descending order <b>(Most experienced ones first)</b> </p>
+<p align="center"> Techs that I've experienced in <b>(Most experienced ones first)</b> </p>
 <p align="center">
   <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp 
