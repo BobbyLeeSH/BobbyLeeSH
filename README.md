@@ -13,6 +13,14 @@
 
 <hr>
 
+<h4> 🔭 I’m currently working on ...</h4>
+
+
+<h5> Frontend</h5>
+<p >
+  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+</p>
+
 <!--
 **BobbyLeeSH/BobbyLeeSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
